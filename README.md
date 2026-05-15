@@ -1,5 +1,5 @@
 
-# Statistical Learning Approaches for Breast Cancer Biomarker Analysis
+# Statistical Learning Approaches for Breast Cancer 
 
 This project explores the statistical structure of breast cancer biomarker data using clustering, Principal Component Analysis (PCA), and Singular Value Decomposition (SVD). The analysis investigates latent biological structure, dimensionality reduction, and biomarker relationships within high-dimensional biomedical data using statistical learning techniques.
 
